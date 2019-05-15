@@ -1,3 +1,0 @@
-print("hw")
-print("xs")
-print("11")
